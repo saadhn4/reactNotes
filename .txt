@@ -1,0 +1,76 @@
+What is React?
+
+- React is a JS libraru for building UI, primarily maintained by Meta (formerly Facebook) and a community of devs. It allows devs to build dynamic, responsive web apps efficiently
+
+Why React was created?
+
+React was created in 2011 by Jordan Walke, A SE at Facebook. The primary goal was to address issues with performance and complexity in Facebook's web applications
+
+-Problem Facebook Faced: The increasing complexity of Facebook's UI led to performance issues with traditional JS and jQuery solutions
+
+- Solution: React introduced a novel approach called the virtual DOM, which improved performance and allowed devs to think of their UIs as a tree of reusable components 
+
+React was open sourced in 2013 and has since become one of the most popular libraries for front end dev
+
+Core concepts:
+
+1. Component Based architecture:
+
+- React apps are built using components: Small, reusable pieces of UI 
+- Components can be functional or class based 
+
+2. Declarative programming:
+
+- Instead of manually manipulating the DOM, devs define what the UI should look like, and React takes care of updating the DOM 
+
+3. Virtual DOM:
+
+- React uses a lightweight, in memory representation of the DOM 
+- When the state of a component changes, React compares the virtual DOM with the real DOM and updates only the necessary parts 
+
+4. JSX (JavaScript XML):
+
+- React uses a syntax extension called JSX which allows html like code to coexist with JS logic 
+
+- Example:
+
+const element = <h1>Hello, World!</h1>
+
+5. Unidirectional data folow:
+
+- React's data flow is one way making it easier to understand and debug apps 
+
+6. State and Props 
+
+- State: Represents the dynamic data of a component
+- Props: Allows components to communicate with each other by passing data.
+
+Why react is popular?
+
+- Performance
+- Flexibility
+- Rich Ecosystem
+- Community and support
+- Reusability
+- Backed by Meta
+- Cross platform dev
+- SEO friendly
+
+SPA - Single page apps 
+
+Advantages of React
+
+- Learning curve
+- Rich tooling 
+- Scalability
+- Backward compatibility
+
+Differences 
+
+Features                         React              Angular               Vue.JS
+Type                             Library            Framework             Framework 
+Learning Curve                   Moderate           Steep                 Easy
+DOM Maanagement                  Virtual DOM        Real DOM              Virtual DOM 
+Data Binding                     One way            Two way               Two way 
+Ecosystem                        Huge               Large                 Moderate
+Use cases                        Flexible           Enterprise Apps       Small to medium apps
