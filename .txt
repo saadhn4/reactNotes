@@ -118,7 +118,11 @@ Converting HTML websites to React:
 
 3. Check img tag and br tag
 
-4. 
+4. Add / in img and br tag
+
+5. import all images in assets folder
+
+6. import all css files
 
 
 
