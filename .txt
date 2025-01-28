@@ -124,5 +124,7 @@ Converting HTML websites to React:
 
 6. import all css files
 
+7. Add self closing tags
+
 
 
