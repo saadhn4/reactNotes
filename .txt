@@ -107,3 +107,18 @@ React setup:
 11. In index.js, remove line 3 and 5, plus the components and the reportWebVitals
 
 12. cd client ,, npm start
+
+------------------------------------------------------------------------------------------------------------------------
+
+Converting HTML websites to React:
+
+1. Remove all comments
+
+2. Change class to className
+
+3. Check img tag and br tag
+
+4. 
+
+
+
