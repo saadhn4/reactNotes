@@ -74,3 +74,36 @@ DOM Maanagement                  Virtual DOM        Real DOM              Virtua
 Data Binding                     One way            Two way               Two way 
 Ecosystem                        Huge               Large                 Moderate
 Use cases                        Flexible           Enterprise Apps       Small to medium apps
+
+------------------------------------------------------------------------------------------------------------------------
+
+React setup:
+
+1. Create repo for project 
+
+2. git clone 
+
+3. cd repo 
+
+4. mkdir client && cd client 
+
+5. npx create-react-app .
+
+6. npm i --legacy--peer--deps 
+
+7. In public => index.html, change the title to your app 
+
+8. In src => 
+
+- app.css : remove the entire code (!DDONT DELETE)
+- delete: index.css, app.test.js, logo.svg, reportWebVitals,js, setupTests.js 
+
+[App.css App.js index.js are left.]
+
+9. In app.js, delete entire code type rfce and choose first option 
+
+10. Type hello world in the div
+
+11. In index.js, remove line 3 and 5, plus the components and the reportWebVitals
+
+12. cd client ,, npm start

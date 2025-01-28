@@ -1,0 +1,29 @@
+1. Differences between frameworks and libraries 
+2. What are the react versions and why react?
+3. react vs next js
+
+Answers: 
+
+1. 
+
+- A framework provides a structured foundation for building an application, while a library is a collection of reusable code components that developers can use into their applications to perform specific tasks essentially, a framework tells you "how" to build something, while a library provides tools to help you build it. 
+
+- Control flow:
+In a framework, the framework controls the application flow, calling your code when needed, whereas in a library, you explicitly call the library functions when you want to use them. 
+
+- Scope:
+Frameworks tend to be larger and more comprehensive, providing a structure for the entire application, while libraries are usually smaller and focused on specific functionalities. 
+
+- Flexibility:
+Libraries offer more flexibility as you can choose how and when to use their functions, while frameworks are more opinionated and require you to follow their predefined structure. 
+
+2.
+
+ Features like concurrent rendering, server-side rendering (SSR), and static site generation (SSG) improve performance for large-scale apps.
+
+React is an excellent choice for both small projects and large enterprise applications because of its flexibility, ease of use, and scalability.
+
+React 0, React 15, 16, 17, 18, 19
+
+3. 
+
