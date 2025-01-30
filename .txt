@@ -149,3 +149,12 @@ Custom Hooks
 Context API 
 Redux
 Next JS 
+
+- React is all about components 
+
+Components are reusable blocks in UI (html and css with JS make a component)
+
+Component benefits:
+
+- Reusability
+- Help in maintaing code
