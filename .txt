@@ -126,5 +126,26 @@ Converting HTML websites to React:
 
 7. Add self closing tags
 
+------------------------------------------------------------------------------------------------------------------------
 
+-TechGun:
 
+- No routing in react
+
+React - 19 
+Node - 23 
+Npm - 11
+Ubuntu - 24 
+
+SPA: Single Page Application & Mobile apps (React Native)
+
+React will give u only the data that u want to update when it changes , unlike HTML.
+
+Imp topics:
+
+Basics
+Hooks
+Custom Hooks 
+Context API 
+Redux
+Next JS 
